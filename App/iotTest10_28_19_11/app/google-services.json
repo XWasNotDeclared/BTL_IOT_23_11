@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "176651284569",
+    "firebase_url": "https://iottest2-a8f3a-default-rtdb.firebaseio.com",
+    "project_id": "iottest2-a8f3a",
+    "storage_bucket": "iottest2-a8f3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176651284569:android:0acd0ac927f201af100148",
+        "android_client_info": {
+          "package_name": "com.example.iottest02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcQsTym-o36SQwz0UYdZP68MXtozqR6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176651284569:android:b469d1f4bdca60ef100148",
+        "android_client_info": {
+          "package_name": "com.example.iottest10_28_19_11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcQsTym-o36SQwz0UYdZP68MXtozqR6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176651284569:android:01f7edbea6400a20100148",
+        "android_client_info": {
+          "package_name": "com.example.iottest2_38_19_11_24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcQsTym-o36SQwz0UYdZP68MXtozqR6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

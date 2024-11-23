@@ -1,0 +1,44 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="?android:attr/selectableItemBackground">
+    <TextView
+        android:id="@+id/tv_device_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DeviceNameHolder"
+        android:textSize="16sp"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/tv_owner_device"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Owner device holder"
+        android:textSize="16sp"
+        android:textColor="@color/black" />
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:textSize="16sp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/tv_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_more_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="More Info"
+        android:textSize="14sp"
+        android:textColor="@color/black" />
+</LinearLayout>
